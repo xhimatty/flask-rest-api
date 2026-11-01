@@ -51,6 +51,8 @@ Marshmallow schemas validate incoming request data and define the structure of A
 
 The API can reject invalid requests, including requests with missing required fields.
 
+<img width="2657" height="1660" alt="openapidoc" src="https://github.com/user-attachments/assets/b4a425ae-09a8-47dc-a831-efe93c050c97" />
+
 ### Project Structure
 
 ```text
