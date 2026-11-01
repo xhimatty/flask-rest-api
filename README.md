@@ -54,7 +54,7 @@ The API can reject invalid requests, including requests with missing required fi
 ### Project Structure
 
 ```text
-flask-smorest-rest-api/
+flask-rest-api/
 ├── app.py
 ├── models.py
 ├── routes.py
